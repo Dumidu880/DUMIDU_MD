@@ -1,6 +1,1 @@
 # DUMIDU_MD
-
-
-
-
-& heroku 
